@@ -1,0 +1,3 @@
+local msg = "Hi this is test e"
+
+print(msg)
